@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/drawable/zaokraglone_narozniki.xml" value="0.5703125" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/drawable/zaokraglone_narozniki_blue.xml" value="0.5703125" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/drawable/zaokraglone_narozniki_green.xml" value="0.5703125" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/drawable/zaokraglone_narozniki_heavyred.xml" value="0.5703125" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/drawable/zaokraglone_narozniki_orange.xml" value="0.5703125" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/drawable/zaokraglone_narozniki_yellow.xml" value="0.5703125" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_dolegliwosc.xml" value="0.4134963768115942" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_donate.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_info_aplikacja.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_instrukcje.xml" value="0.39479166666666665" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_leki.xml" value="0.33" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_login.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_main.xml" value="0.4134963768115942" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_podziekowania.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_probny_test.xml" value="0.4390625" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_profile.xml" value="0.5" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_rejestracja.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_test_cisnienie_lista.xml" value="0.41875" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_test_w_toku.xml" value="0.5" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_testowe_cisnienie_lista.xml" value="0.31614583333333335" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_testy_krwotok.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_testy_lista.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_testy_omdlenie.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_testy_rko.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_testy_wypadek_drogowy.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_testy_zlamania.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_wybor_badan.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_wynik_testu.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/activity_zmiana_danych.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/cardview.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_cisnienie.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_cukier.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_glikemia.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_lista_cisnienie.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_lista_cukier.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_logged_main.xml" value="0.4134963768115942" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_not_logged_main.xml" value="0.4134963768115942" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_wykres_cisnienie.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_wykres_glikemia.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_zmiana_emailu.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_zmiana_hasla.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/fragment_zmiana_loginu.xml" value="0.5541666666666667" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/item_layout.xml" value="0.4148550724637681" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/score_bottom_sheet.xml" value="0.4390625" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/wynik_cisnienie_layout.xml" value="0.55" />
+        <entry key="..\:/Studia/Inzynierka/PKM/app/src/main/res/layout/wynik_cukier_layout.xml" value="0.55" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.226" />
+        <entry key="app/src/main/res/layout/activity_dolegliwosc.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_donate.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_info_aplikacja.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_instrukcje.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_leki.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_podziekowania.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_rejestracja.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_testy_krwotok.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_testy_lista.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_testy_omdlenie.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_testy_rko.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_testy_wypadek_drogowy.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_testy_zlamania.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_wybor_badan.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_zmiana_danych.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/fragment_cisnienie.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/fragment_cukier.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/fragment_lista_cisnienie.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/fragment_lista_cukier.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/fragment_logged_main.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/fragment_not_logged_main.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/fragment_zmiana_hasla.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/wynik_cisnienie_layout.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/wynik_cukier_layout.xml" value="0.24547101449275363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TestyZlamania"
+    android:background="@color/grey">
+
+    <ImageView
+        android:id="@+id/logoNapis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        app:srcCompat="@drawable/pmklogotesty" />
+
+    <TextView
+        android:id="@+id/idLiczbaPytan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Liczba pytan"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/idPytanie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idLiczbaPytan"
+        android:layout_marginTop="30dp"
+        android:text="Question"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="25sp" />
+
+    <LinearLayout
+        android:id="@+id/pytaniaLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idPytanie"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/idBtnOption1"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/pustyprzyciskbutton"
+            android:padding="4dp"
+            android:text="Option 1"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/idBtnOption2"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/pustyprzyciskbutton"
+            android:padding="4dp"
+            android:text="Option 2"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/idBtnOption3"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/pustyprzyciskbutton"
+            android:padding="4dp"
+            android:text="Option 3"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/idBtnOption4"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/pustyprzyciskbutton"
+            android:padding="4dp"
+            android:text="Option 4"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/cofnijBtn"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@+id/pytaniaLayout"
+        android:layout_marginBottom="-80dp"
+        android:background="@drawable/pustyprzyciskbutton"
+        android:text="Cofnij"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/logoDuze"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/logostart"
+        android:visibility="gone"/>
+
+</RelativeLayout>

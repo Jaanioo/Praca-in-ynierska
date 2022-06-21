@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250294567374",
+    "project_id": "pkminzynierka",
+    "storage_bucket": "pkminzynierka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250294567374:android:70a2db0635d4b416c0eb9f",
+        "android_client_info": {
+          "package_name": "com.example.pomockazdymoze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250294567374-mo5op0rgmgo00t3tqgegdd7cgv1mdedq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGl3vV6pk8abvFA5FDJU_z-Yl7vjPJVNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250294567374-mo5op0rgmgo00t3tqgegdd7cgv1mdedq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
